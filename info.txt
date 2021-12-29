@@ -1,0 +1,1 @@
+.exe File Is Fine But If Your Antivirus Blocks It Use The .py File They Both Are Recommended (.py Files Require Python To Be Installed Visit python.org And .exe Files Requires Windows 10, Windows 11, Windows 7, Windows 8).
